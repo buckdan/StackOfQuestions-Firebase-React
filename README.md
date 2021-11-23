@@ -33,4 +33,6 @@ npm run build   //For creating a production build
 ```
 <br>
 
-And that is it. Thanks for anyone who checkout my repository. Make sure to leave a star.
+And that is it. Thanks for anyone who checkout my repository. Make sure to leave a star.<br>
+Also special thanks to Octoi who is the creator of the celloverflow forum which this project is based on. So yeah special thanks to him make sure to check him out<br>
+[Octoi's Projects](https://github.com/octoi/celloverflow)
