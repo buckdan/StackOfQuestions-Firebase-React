@@ -24,7 +24,7 @@ export default firebaseConfig;
 <br>
 
 5./After done with your script now the project is ready. Do some tweaking to suit with your needs and we have a forum.<br />
-Runing the project locally <br />
+**Runing the project locally** <br />
 
 ```node
 npm start       //For testing locally
