@@ -9,6 +9,7 @@ npm init
 ```
 
 2./You need a firebase project created one or use a empty firebase project.<br>
+*(Make sure to enable firestore and authatication for google and facebook)*<br>
 
 3./Create a javascript file in `scr/firebase` name it firebaseConfig<br>
 
