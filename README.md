@@ -1,5 +1,5 @@
 # StackOfQuestions-Firebase-React
-This is a small forum website. Using React and Firebase
+This is a small forum website for Vietnam users only. Using React and Firebase
 <br><br>
 **HERE ARE SOME STEPS YOU NEED TO DO BEFORE EDIT ANYTHING IN THE PROJECT**
 <br>
