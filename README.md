@@ -8,7 +8,7 @@ This is a small forum website. Using React and Firebase
 npm init
 ```
 
-2./You need a firebase project created one or use a empty firebase project.<br>
+2./You need a firebase project, create one or use a empty firebase project.<br>
 *(Make sure to enable firestore and authatication for google and facebook)*<br>
 
 3./Create a javascript file in `scr/firebase` name it firebaseConfig<br>
@@ -17,7 +17,7 @@ npm init
 
 ```js
 const firebaseConfig = {
-  // Your api key project here
+  // Your firebase api key project here
 };
 export default firebaseConfig;
 ```
